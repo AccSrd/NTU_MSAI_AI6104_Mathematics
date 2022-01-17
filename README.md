@@ -32,9 +32,11 @@ This repository should only be used for reasonable academic discussions. I, the 
 
 The projects of this course consist of only **one individual Assignment**. The topic of the assignment are shown below, and the specific score is not provided to us.
 
-Type | Topic
------------- | -------------
-Assignment | Derive Gradients
+Type | Topic | Grade
+------------ | ------------- | ---
+Assignment | Derive Gradients | N.A. / 30.0
+Quiz | N.A. | N.A. / 35.0
+Quiz | N.A. | N.A. / 35.0
 ---
 
 ### **====== A C K N O W L E D G E M E N T ======**
